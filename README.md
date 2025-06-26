@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leo888Lion
+- 👋 Hi, I’m @Alisher
 - 👀 I’m interested in HTML, CSS, JavaScript
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaScript
